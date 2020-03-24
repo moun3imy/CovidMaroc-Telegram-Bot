@@ -1,0 +1,5 @@
+vendor
+lib/crawlMoroccanProxy.php
+preview.php
+subscribers.json
+*.lock
